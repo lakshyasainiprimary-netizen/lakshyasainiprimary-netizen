@@ -29,22 +29,6 @@
 
 
 
-<div align="center">
-
-```text
-┌──(lakshya㉿github)-[~]
-└─$ whoami
-   B.Tech CSE Student
-
-└─$ currently_learning
-   C | C++ | Data Structures & Algorithms
-
-└─$ mindset
-   Fail, but don't quit.
-```
-
-</div>
-
 
 
 ## 👨‍💻 About Me

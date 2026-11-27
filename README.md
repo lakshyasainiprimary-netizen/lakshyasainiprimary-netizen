@@ -19,6 +19,15 @@
 
 ---
 
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fail%2C+but+don't+quit.;Learning+C+%26+C%2B%2B;Exploring+Data+Structures+%26+Algorithms;Building+my+problem-solving+skills."
+    alt="Typing animation"
+  />
+</div>
+
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science student.

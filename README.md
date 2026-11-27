@@ -1,5 +1,13 @@
 
 <div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:101B35,100:00D9FF&height=220&section=header&text=Lakshya%20Saini&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=16"
+    width="100%"
+    alt="Lakshya Saini profile banner"
+  />
+</div>
+
+<div align="center">
 
 # Lakshya Saini
 

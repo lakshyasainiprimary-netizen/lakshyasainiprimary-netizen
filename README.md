@@ -64,3 +64,15 @@
 <img src="https://komarev.com/ghpvc/?username=lakshyasainiprimary-netizen&style=flat-square&color=blueviolet" alt="Profile views" />
 
 </div>
+
+
+---
+
+## 💭 Words I Live By
+
+> "Fail, but don't quit."
+
+> "If you don't know what you want, then you'll get what you don't want."
+
+---
+

@@ -75,6 +75,17 @@
 
 ---
 
+
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyasainiprimary-netizen&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+</div>
+
+
 <div align="center">
 
 ### 🌱 Learning. Building. Improving.

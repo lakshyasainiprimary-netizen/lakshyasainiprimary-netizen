@@ -97,13 +97,21 @@
 
 ---
 
-## 💭 Words I Live By
-
-> "Fail, but don't quit."
-
-> "If you don't know what you want, then you'll get what you don't want."
 
 ---
+
+## 💭 Words I Live By
+
+<div align="center">
+
+> **"Fail, but don't quit."**
+
+> *"If you don't know what you want, then you'll get what you don't want."*
+
+</div>
+
+---
+
 
 
 
